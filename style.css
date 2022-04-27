@@ -17,9 +17,12 @@ body {
     padding: 8px;
 }
 
+.logo {
+    display: flex;
+}
+
 .navbar-nav {
     display: flex;
-    justify-content: right;
 }
 
 .nav-items {
